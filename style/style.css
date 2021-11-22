@@ -1,0 +1,17 @@
+#banner {
+  width: 940px;
+}
+
+#title {
+  text-align: center;
+}
+#mission {
+  font-size: 20px;
+}
+
+p {
+  text-align: center;
+}
+#about {
+  background-color: #cccccc;
+}
